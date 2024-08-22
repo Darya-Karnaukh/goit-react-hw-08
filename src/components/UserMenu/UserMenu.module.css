@@ -1,0 +1,12 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+}
+
+.menu p {
+  color: white;
+  font-size: bold;
+}

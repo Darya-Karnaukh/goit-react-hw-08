@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #a99580;
+}
+h1 {
+  margin: 0 auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.global {
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.loader {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}

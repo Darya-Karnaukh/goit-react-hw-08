@@ -1,0 +1,30 @@
+.homepage {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(12, 12, 13, 0.6) 20%,
+    rgba(51, 51, 54, 1) 100%
+  );
+}
+
+.section h1 {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, gold, #e3e7ca);
+  color: transparent;
+  background-clip: text;
+
+  margin-bottom: 40px;
+}
+
+.section p {
+  font-size: 36px;
+  color: #d7cbcb;
+}

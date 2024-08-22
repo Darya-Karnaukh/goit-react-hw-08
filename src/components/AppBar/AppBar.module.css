@@ -1,0 +1,13 @@
+nav {
+  color: rgb(232, 219, 219);
+  font-size: 24px;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.header {
+  background-color: #333;
+}
